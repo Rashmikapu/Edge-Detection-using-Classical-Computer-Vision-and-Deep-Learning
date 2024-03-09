@@ -1,4 +1,4 @@
-# CMSC733 Homework 0 - Alohamora 
+# CMSC733 Homework 0 - Alohamora!
 ## Department of Computer Science- University of Maryland, College Park
 
 Assignment page can be found [here.](https://cmsc733.github.io/2022/hw/hw0/)

@@ -86,7 +86,7 @@ This involves implementing multiple neural network architectures and comparing t
 
 Dataset : CIFAR10
 
-### Basic Neural Network : (3 - layer Conv net)
+### Basic Neural Network : (2-layer Conv net)
 
 #### Architecture :
 ![Alt text](Phase2/Code/Outputs/arch.png)

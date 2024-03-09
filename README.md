@@ -37,7 +37,7 @@ For more info on how it is built, check out report.pdf.
 
 This can be found in the folder Phase1/Outputs/texton maps/
 
-![Alt text](Phase1/Code/Outputs/texton%20maps/texton_collage.png)
+<img src="Phase1/Code/Outputs/texton%20maps/texton_collage.png" alt="Alt text" width="350"/>
 
 K-Means Clustering with k=100
 
@@ -46,7 +46,8 @@ K-Means Clustering with k=100
 This can be found in the folder Phase1/Outputs/color maps/
 
 Red, green, blue channel filtering :
-![Alt text](Phase1/Code/Outputs/color%20maps/image.png)
+
+<img src="Phase1/Code/Outputs/color%20maps/image.png" alt="Alt text" width="350"/>
 
 K-Means clustering with k=16
 
@@ -56,15 +57,16 @@ This can be found in the folder Phase1/Outputs/brightness maps/
 
 K-Means clustering with k=16
 
-Red, green, blue channel filtering :
-<img src="Phase1/Code/Outputs/brightness%20maps/page4.png" alt="Alt text" width="200"/>
+
+<img src="Phase1/Code/Outputs/brightness%20maps/page4.png" alt="Alt text" width="350"/>
 
 
 #### Half disc masks to generate gradients :
 
 This can be found in the folder Phase1/Outputs/filter_banks/halfdisks.png
 
-![Alt text](Phase1/Code/Outputs/filter_banks/halfdisks.png)
+
+<img src="Phase1/Code/Outputs/filter_banks/halfdisks.png" alt="Alt text" width="350"/>
 
 #### PB LITE
 
@@ -75,6 +77,7 @@ This can be found in the folder Phase1/Outputs/pblite/
 ### Comparison with Canny and Sobel baselines : 
 
 ![Alt text](Phase1/Code/Outputs/pblite/enhanced_comparison.png)
+
 *Canny baseline(left), Sobel(middle), pblite(right)*
 
 ## Phase 2: Deep dive on Deep Learning

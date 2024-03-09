@@ -1,0 +1,24 @@
+This is the project for CMSC733 Homework 0 - Alohamora
+
+
+--> All the code files for Phase1 and Phase2 are executed on Google colab.
+   
+   Phase 1 - Phase1/Code/phase1.ipynb
+   
+   Phase 2 - Phase2/Code/phase2.ipynb
+
+--> All the required folders and code files are in Code directory in both the phases
+
+--> Paths are given in .ipynb files according to the author's drive structure. These paths need to be
+   changed everywhere accordingly. 
+
+
+--> Outputs and plots for both the phases can be seen in Code/Outputs. The cells in .ipynb files are
+    executed and the outputs can be seen as cell outputs.
+
+--> Phase 2 runs on Tensorflow 1, but due to limitations of tf1 usage on Google Colab,
+    the starter code has been modified accordingly. This needs to be changed accordingly for
+    different versions of Tensorflow.
+    
+--> Cifar10 data was not zipped in this submission. Please download the images from homework page
+    and link it to the .ipynb file to run the code.
